@@ -1,0 +1,12 @@
+# framework
+django
+djangorestframework
+
+# work with db(postgresql)
+psycopg2-binary
+
+#work with images
+pillow
+
+# for .env
+python-decouple
